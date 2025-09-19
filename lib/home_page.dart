@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:novelverse/novels_page.dart';
+import 'package:novelverse/novels/novels_page.dart';
 import 'tabs/home_tab.dart';
 import 'tabs/categories_tab.dart';
 import 'tabs/library_tab.dart';
